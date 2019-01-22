@@ -1,0 +1,10 @@
+C:\Users\mmlopez76\source\repos\RadioBCheckB\RadioBCheckB\bin\Debug\RadioBCheckB.exe.config
+C:\Users\mmlopez76\source\repos\RadioBCheckB\RadioBCheckB\bin\Debug\RadioBCheckB.exe
+C:\Users\mmlopez76\source\repos\RadioBCheckB\RadioBCheckB\bin\Debug\RadioBCheckB.pdb
+C:\Users\mmlopez76\source\repos\RadioBCheckB\RadioBCheckB\obj\Debug\RadioBCheckB.csprojAssemblyReference.cache
+C:\Users\mmlopez76\source\repos\RadioBCheckB\RadioBCheckB\obj\Debug\RadioBCheckB.Form1.resources
+C:\Users\mmlopez76\source\repos\RadioBCheckB\RadioBCheckB\obj\Debug\RadioBCheckB.Properties.Resources.resources
+C:\Users\mmlopez76\source\repos\RadioBCheckB\RadioBCheckB\obj\Debug\RadioBCheckB.csproj.GenerateResource.cache
+C:\Users\mmlopez76\source\repos\RadioBCheckB\RadioBCheckB\obj\Debug\RadioBCheckB.csproj.CoreCompileInputs.cache
+C:\Users\mmlopez76\source\repos\RadioBCheckB\RadioBCheckB\obj\Debug\RadioBCheckB.exe
+C:\Users\mmlopez76\source\repos\RadioBCheckB\RadioBCheckB\obj\Debug\RadioBCheckB.pdb

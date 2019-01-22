@@ -1,0 +1,10 @@
+C:\Users\mmlopez76\source\repos\Exercise2Tryparse\Exercise2Tryparse\bin\Debug\Exercise2Tryparse.exe.config
+C:\Users\mmlopez76\source\repos\Exercise2Tryparse\Exercise2Tryparse\bin\Debug\Exercise2Tryparse.exe
+C:\Users\mmlopez76\source\repos\Exercise2Tryparse\Exercise2Tryparse\bin\Debug\Exercise2Tryparse.pdb
+C:\Users\mmlopez76\source\repos\Exercise2Tryparse\Exercise2Tryparse\obj\Debug\Exercise2Tryparse.csprojAssemblyReference.cache
+C:\Users\mmlopez76\source\repos\Exercise2Tryparse\Exercise2Tryparse\obj\Debug\Exercise2Tryparse.Form1.resources
+C:\Users\mmlopez76\source\repos\Exercise2Tryparse\Exercise2Tryparse\obj\Debug\Exercise2Tryparse.Properties.Resources.resources
+C:\Users\mmlopez76\source\repos\Exercise2Tryparse\Exercise2Tryparse\obj\Debug\Exercise2Tryparse.csproj.GenerateResource.cache
+C:\Users\mmlopez76\source\repos\Exercise2Tryparse\Exercise2Tryparse\obj\Debug\Exercise2Tryparse.csproj.CoreCompileInputs.cache
+C:\Users\mmlopez76\source\repos\Exercise2Tryparse\Exercise2Tryparse\obj\Debug\Exercise2Tryparse.exe
+C:\Users\mmlopez76\source\repos\Exercise2Tryparse\Exercise2Tryparse\obj\Debug\Exercise2Tryparse.pdb
